@@ -26,3 +26,6 @@ Automating Nuclei to find low hanging fruits.
 ***Change the path according to your nuclei-templates location.***
 
 # Usage~# bash nuclei.sh target.com
+
+#Credits:
+***CREDIT GOES TO ALL CREATORS OF RESPECTIVE TOOLS***
