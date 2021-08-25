@@ -27,5 +27,5 @@ Automating Nuclei to find low hanging fruits.
 
 # Usage~# bash nuclei.sh target.com
 
-#Credits:
+# Credits:
 ***CREDIT GOES TO ALL CREATORS OF RESPECTIVE TOOLS***
